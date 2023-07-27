@@ -1,0 +1,4 @@
+blade
+background
+blade_defect_sunburn
+blade_edge
